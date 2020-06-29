@@ -1,4 +1,4 @@
-prefix=/Users/cortxu/Desktop/github/ffmpeg-build/binary/fdkaac/arm64-v8a
+prefix=/Users/cortxu/Desktop/github/ffmpeg-build/binary/android/fdkaac/arm64-v8a
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

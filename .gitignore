@@ -2,3 +2,6 @@
 *.Plo
 *.Po
 *.log
+*.lo
+*.o
+.libs
