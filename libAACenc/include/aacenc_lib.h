@@ -1103,6 +1103,7 @@ typedef struct {
   UINT frameLength; /*!< Amount of input audio samples consumed each frame per
                        channel, depending on audio object type configuration. */
 
+  UINT encoderDelay;
   UINT nDelay; /*!< Codec delay in PCM samples/channel. Depends on framelength
                   and AOT. Does not include framing delay for filling up encoder
                   PCM input buffer. */
